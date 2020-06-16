@@ -1,3 +1,5 @@
+This is just a fork, possibly will not be updated. go for the original work instead...
+
 Lwan Web Server
 ===============
 
